@@ -1,0 +1,11 @@
+Date Initiated,Transaction Type,Amount,Assignment ID,divided
+3/14/20,Prepayment,10.0,,Full
+3/16/20,AssignmentPayment,-1.5,A,Full
+3/16/20,FeePayment,-0.75,A,Full
+3/16/20,AssignmentPayment,-1.5,B,Full
+3/16/20,FeePayment,-0.75,B,Full
+3/17/20,AssignmentPayment,-1.5,C,Full
+3/17/20,FeePayment,-0.75,C,Full
+3/18/20,AssignmentPayment,-1.5,D,Full
+3/18/20,FeePayment,-0.75,D,Full
+3/20/20,AssignmentPayment,-1.0,E,Partial
